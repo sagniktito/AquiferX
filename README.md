@@ -1,4 +1,4 @@
-# 🌊 AquiferX
+#  AquiferX
 
 An interactive **reservoir engineering toolkit** developed using **Python** and **Streamlit** for analytical steady state water influx modelling and material balance analysis.
 
@@ -6,13 +6,13 @@ An interactive **reservoir engineering toolkit** developed using **Python** and 
 
 ## Features
 
-- 🌊 Schilthuis Steady-State Aquifer Model
-- 🌊 Pot Aquifer Model
-- 🌊 Hurst Modified Steady-State Model
-- 🛢 Material Balance Equation (MBE)
-- 📊 Aquifer Model Comparison
-- ⚙️ Sensitivity Analysis
-- 📉 Interactive Plotly Visualizations
+- Schilthuis Steady-State Aquifer Model
+- Pot Aquifer Model
+- Hurst Modified Steady-State Model
+- Material Balance Equation (MBE)
+- Aquifer Model Comparison
+- Sensitivity Analysis
+- Interactive Plotly Visualizations
 
 ---
 
